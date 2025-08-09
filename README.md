@@ -1,4 +1,4 @@
 # NLP-sesion1
 Luis Fernando Botero
 
-Notebooks usando Spacy y Vader
+Notebooks usando Spacy y Vader de nltk
